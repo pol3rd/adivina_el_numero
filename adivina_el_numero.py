@@ -22,4 +22,4 @@ def adivina_el_número(x):
 
     print(f"¡Felicidades! Has adivinado el número {número_aleatorio} correctamente.")
 
-    adivina_el_número(10)
+adivina_el_número(10)
